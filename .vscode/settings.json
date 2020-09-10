@@ -1,3 +1,4 @@
 {
-    "python.venvPath": "C:\\Users\\Public\\Anaconda3\\envs\\marketing_env\\python.exe"
+    "python.venvPath": "C:\\Users\\Public\\Anaconda3\\envs\\marketing_env\\python.exe",
+    "python.dataScience.jupyterServerURI": "local"
 }

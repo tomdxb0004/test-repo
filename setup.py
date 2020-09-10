@@ -7,6 +7,6 @@ setup(
 	...
     entry_points='''
         [console_scripts]
-        titanic_analysis=titanic.command_line:titanic_analysis
+        analysis=titanic.command_line:_analysis
     '''
 )

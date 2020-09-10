@@ -1,0 +1,12 @@
+setup(
+    ...
+    install_requires=[
+        ...
+        'click>=7.0'
+    ],
+	...
+    entry_points='''
+        [console_scripts]
+        titanic_analysis=titanic.command_line:titanic_analysis
+    '''
+)
